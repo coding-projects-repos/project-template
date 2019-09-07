@@ -23,6 +23,10 @@ List any topics that would be required to complete the project (exclude extensio
 
 The meat of the project - detailed prompt on the project specifications.
 
+## Testing
+
+Provide instructions or test cases so the learner can check their results. Alternatively, provide tests within the code with instructions on how to execute them.
+
 ## Extensions
 
 Any extensions for learners to try once completed with the base level.
