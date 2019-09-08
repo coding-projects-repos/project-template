@@ -7,6 +7,12 @@
 
 # Project Name
 
+1. [Description](#description)
+2. [Prerequisites](#prerequisites)
+3. [Prompt](#prompt)
+4. [Testing](#testing)
+5. [Extensions](#extensions)
+
 ## Description
 
 A short, high-level description of the project.
